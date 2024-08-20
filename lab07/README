@@ -1,0 +1,75 @@
+/////////////////////////////////////////////////////////////////////
+//CS 401 Introduction to Advanced Studies I
+//Student:      Harlee Liz Ramos
+//Due date:     04/27/2024
+// Program Name: README.txt
+/////////////////////////////////////////////////////////////////////
+
+DESCRIPTION
+The following folder contains the contents of Laboratory No. 7.
+All of the codes were based on the textbook Object-Oriented Data Structures Using JavaTM.
+
+Part 1
+The selection sort and binary search are put into practice in the first lab section. The runner class, Part 1, is the runner class for the purposes of this section. 
+This Java program begins by reading a text file line by line and parsing each section as an ID and name. 
+The text file's contents are then queued up, and the code generates a new employee object. 
+However, in this program, the employee objects are stored in the floating front queue. 
+The application manages exceptions related to queue overflow, improper data format, and file not found. 
+The employee IDs are then rearranged in descendent numerical order using the Selection Sort (all of these Java files were put within the queues folder).
+ After sorting the queue, the queue method print output is produced. Next, the employee at index 8 is displayed using a binary search.
+
+
+
+Part 2
+For part 2 of the laboratory, the Stack class was used to evaluate a given infix expression to a postfix expression (the class InfixToPostfixEvaluator is the one that contains the needed methods to perform the conversions).
+The key differences between the infix notation and the postfix are the following:
+Infix notation
+*This is the most common way to write a math expression.
+*The operator is placed between the operands (numbers or variables).
+* Example: 2 + 3 * 4
+
+Postfix Notation
+*The operator is placed after the operands.
+*The equivalent postfix expression for 2 + 3 + 4 is: 2 + 3 + 4 +
+
+The Part2 runner class is in charge of constructing an instance of the Stack class and putting the methods required to carry out the conversion into practice.
+The expression to be evaluated is first allocated to a string array in the code, and then each component of the expression is iterated through using a for loop.
+An infix expression can be changed into a postfix expression using the InfixToPostfixEvaluator method found inside the InfixToPostfixEvaluator class.
+Afterfix evaluates the method's precedence; a postfix expression returns an operator's precedence; the function carries out Function conducts an arithmetic calculation.
+Note that the stack codes are inside the folder stacks.
+
+Part 3
+The third part of the experiment is coded in the Part3 class, which is the runner class.
+The class Part3 will interact with the user and implement the palindrome class's functions based on user input.
+A static method named test in the class determines whether a given string is a palindrome.
+Next, the palindrome initializes data structures and variables, builds a queue and stack, iterates through each character, lowercases it, and compares it.
+It proceeds, dequeues, or sets the stillPalindrome flag to false if they are all matching.
+The stillpalindrome flag is returned whenever the comparison is complete or a mismatch is discovered between any two characters.
+
+
+
+FROM TERMINAL
+* Type on your terminal the following command line: cd [location of the file]
+
+Example:
+cd /Users/[your user name]/Downloads
+* Type on your terminal the following command line:
+java -jar Lab7_Part1_HR.jar
+java -jar Lab7_Part2_HR.jar
+java -jar Lab7_Part3_HR.jar
+
+* The jar application should run without any problem.
+
+* NOTE: In order to run the Lab7_Part1_HR.jar file, you must have the emp.txt file in the same location, otherwise you will not be able to run it properly.
+
+
+
+
+
+
+
+
+
+
+
+
