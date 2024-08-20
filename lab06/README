@@ -7,16 +7,11 @@
 
 DESCRIPTION
 
-This Java program, creates two queues, FixedFrontQueue and FloatingFrontQueue, to hold Employee objects. It creates a File object for a file named emp.txt and reads the file line by line, parsing each part as an id and name. It creates a new Employee object and enqueues it into both queues. The program handles exceptions for file not found, invalid data format, and queue overflow. The processQueue method prints the initial contents of the queue, dequeues three elements, and prints the queue contents. The printQueue method prints the queue contents, handles exceptions, and checks the queue type.
-
-FROM TERMINAL
-* Type on your terminal the following command line: cd [location of the file]
-
-Example:
-cd /Users/[your user name]/Downloads
-* Type on your terminal the following command line: java -jar Lab6_HarleeRamos.jar
-* The jar application should run without any problem.
-
+This Java program, creates two queues, FixedFrontQueue and FloatingFrontQueue, to hold Employee objects. 
+It creates a File object for a file named emp.txt and reads the file line by line, parsing each part as an id and name. 
+It creates a new Employee object and enqueues it into both queues. The program handles exceptions for file not found, invalid data format, and queue overflow. 
+The processQueue method prints the initial contents of the queue, dequeues three elements, and prints the queue contents. 
+The printQueue method prints the queue contents, handles exceptions, and checks the queue type.
 
 
 
