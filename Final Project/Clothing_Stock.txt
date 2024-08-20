@@ -1,0 +1,107 @@
+ID	DESCRIPTION
+51	top off shoulder
+21	elastic waist pants
+73	jeans indigo
+69	mini skirt biker
+46	mini skirt mango
+17	jeans amanda
+5	floral velvet dress
+36	jeans us polo
+97	sheer lace vest
+104	asymmetrical skirt
+18	sheer vest
+15	elastic waist shorts
+90	formal classic skirt
+11	blouse
+86	double-color shirt
+40	short dress
+88	waist detail blouse
+67	tank top
+10	cotton coat
+91	pu strap set
+105	tribal dress
+95	print sleeveless dress
+39	dress with lace front
+83	sleeveless dress
+25	jumpsuit with print
+3	double open vest
+37	gray platform sneakers
+87	long-sleeved blouse
+52	floral print blouse
+61	reptile print top
+33	sleeveless vest
+100	tie-up dress with collar
+63	dress with rhinestones
+54	floral shirt
+49	strapless dress
+96	dress with animal print
+31	lace and ruffle dress
+72	high-waisted leather shorts
+29	bell sleeve crop top
+78	ruffled collar silk blouse
+32	wool blend trench coat
+1	wide-leg linen trousers
+22	denim jacket with embroidery
+82	velvet bodysuit with cut-outs
+55	fishnet overlay maxi dress
+71	quilted bomber jacket
+68	pleated metallic skirt
+56	backless halter neck top
+8	puffer vest with faux fur trim
+13	sequin embellished gown
+70	neoprene swim shorts
+19	oversized sweater asymmetrical
+57	pin-striped blazer
+98	cable knit wool scarf
+7	multi-pocket utility jeans
+77	floral lace cocktail dress
+38	suede fringe jacket
+85	graphic print tee
+106	silk charmeuse pajama set
+9	houndstooth wool blazer
+79	chambray shirt dress
+94	sequin flapper dress
+50	cashmere v-neck sweater
+2	patchwork suede mini skirt
+34	cropped moto jacket in faux leather
+12	high-rise flared velvet pants
+92	scallop edge bikini top
+74	structured satin blazer
+24	checkerboard print bucket hat
+27	mesh panel leggings
+45	distressed denim overalls
+23	peplum hem jacket
+20	brocade fabric corset top
+64	argyle pattern sweater vest
+76	twill cargo pants
+103	satin wrap midi dress
+28	faux fur stole
+99	embroidered peasant blouse
+16	holographic sneakers
+101	military-style caped coat
+80	polka dot wrap dress
+89	crushed velvet leggings
+44	asymmetric hem tunic
+30	feather-trimmed cocktail dress
+65	leather pencil skirt
+42	tie-dye hooded sweatshirt
+75	chiffon layered maxi skirt
+93	plaid trench coat
+41	sheer tulle midi skirt
+26	cable knit beanie
+58	bamboo handle handbag
+59	acid wash skinny jeans
+48	off-the-shoulder ruffle top
+60	tie-front crop top
+43	fisherman’s knit sweater
+4	color-block windbreaker
+35	leopard print pumps
+47	slouchy suede boots
+62	bishop sleeve cardigan
+66	striped linen blazer
+14	sheer polka dot stockings
+81	tassel detail espadrilles
+102	quilted silk kimono
+53	neon cycling shorts
+84	embroidered cowboy boots
+6	jewel tone velvet blazer
