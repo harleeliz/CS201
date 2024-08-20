@@ -1,0 +1,38 @@
+/////////////////////////////////////////////////////////////////////
+// CS 401 Introduction to Advanced Studies I
+// Student:      Harlee Liz Ramos
+// Due date:     02/21/2024
+// Program Name: README.txt
+/////////////////////////////////////////////////////////////////////
+
+DESCRIPTION
+
+PART 1.
+* The Jacobsthal numbers are those derived by the Uns in the Lucas sequence with P = 1 and Q = 2, which equate to a = 2 and b = -1.
+The presented code will compute the n-th Jacobsthal number using recursive and iterative methods.
+Both approaches will be compared based on the execution time of the methods defined in the JacobsthalCalculator class. 
+In addition, two printer methods in the class JacobsthalCalculator were added to properly display each iteration on the main class.
+ 
+ 
+ PART 2.
+ *This java application will system.out.print the maximum value of a declared unsorted array.
+
+FROM TERMINAL
+* Type on your terminal the following command line: cd [location of the file]
+
+Example:
+cd /Users/[your user name]/Downloads
+* Type on your terminal the following command line: java -jar Lab5_HarleeRamos_Jacobsthal.jar
+* Type on your terminal the following command line: java -jar Lab5_HarleeRamos_Maximum.jar
+* The jar application should run without any problem.
+
+
+
+
+
+
+
+
+
+
+
