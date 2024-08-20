@@ -1,0 +1,38 @@
+/////////////////////////////////////////////////////////////////////
+// CS 401 Introduction to Advanced Studies I
+// Student:      Harlee Liz Ramos
+// Due date:     04/10/2024
+// Program Name: README.txt
+/////////////////////////////////////////////////////////////////////
+
+DESCRIPTION
+In the laboratory n9, the main class introduces the lab and implements methods of the BinarySearchTree class using stacks and queues. An instance of the class is created, named example, and various integer numbers are added to the BST. 
+The maximum depth of the BST is calculated using the findMaxDepth() method, passing the root node of the tree. 
+The tree size is calculated recursively and iteratively using the size() and size2() methods. 
+Tree traversals are performed in three orders: in-order, pre-order, and post-order.
+The printInOrder() method prints in-order traversal, the printPreOrder() method prints pre-order traversal, and the printPostOrder() method prints post-order traversal. Both sizes are printed on the console.
+
+
+FROM TERMINAL
+* Type on your terminal the following command line: cd [location of the file]
+
+Example:
+cd /Users/[your user name]/Downloads
+* Type on your terminal the following command line:
+java -jar Lab9_Main_HR.jar
+
+
+* The jar application should run without any problem.
+
+
+
+
+
+
+
+
+
+
+
+
+
