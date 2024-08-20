@@ -48,26 +48,6 @@ The stillpalindrome flag is returned whenever the comparison is complete or a mi
 
 
 
-FROM TERMINAL
-* Type on your terminal the following command line: cd [location of the file]
-
-Example:
-cd /Users/[your user name]/Downloads
-* Type on your terminal the following command line:
-java -jar Lab7_Part1_HR.jar
-java -jar Lab7_Part2_HR.jar
-java -jar Lab7_Part3_HR.jar
-
-* The jar application should run without any problem.
-
-* NOTE: In order to run the Lab7_Part1_HR.jar file, you must have the emp.txt file in the same location, otherwise you will not be able to run it properly.
-
-
-
-
-
-
-
 
 
 
